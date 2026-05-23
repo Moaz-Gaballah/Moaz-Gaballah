@@ -41,9 +41,10 @@ I'm a Computer Engineering student passionate about building things — from low
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moaz-Gaballah&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=ffdd54" alt="Moaz's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moaz-Gaballah&layout=compact&theme=transparent&hide_border=true&title_color=3670A0" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Moaz-Gaballah&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moaz-Gaballah&theme=transparent" alt="Moaz's GitHub Stats" />
 </p>
 
 ---
