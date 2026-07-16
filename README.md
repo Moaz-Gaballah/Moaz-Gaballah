@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Moaz Gaballah </h1>
+<h1 align="center">Hi, I'm Moaz Gaballah</h1>
 
 <p align="center">
-   Computer Engineering Student &nbsp;·&nbsp; Alexandria, Egypt
+  <strong>Computer Engineering Student · Alexandria, Egypt</strong>
 </p>
 
 <p align="center">
@@ -16,13 +16,9 @@
 
 ---
 
-###  About Me
+### 💻 About Me
 
-I'm a Computer Engineering student passionate about building things — from low-level systems to intelligent applications. I enjoy working close to the hardware while also exploring AI, and I'm committed to writing clean, efficient, and scalable code.
-
--  Studying **Computer Engineering**
--  Interested in **electronics, embedded systems, and AI**
--  Using AI tools daily to learn faster and build smarter
+I’m a Computer Engineering student at Alexandria University who enjoys building software that actually works well under the hood. I have a strong foundation in programming languages, data structures, algorithms, and object-oriented programming. I am genuinely enthusiastic about software development and always eager to learn, adapt, and build.
 
 ---
 
@@ -30,11 +26,11 @@ I'm a Computer Engineering student passionate about building things — from low
 
 **Languages:**
 
-![](https://skillicons.dev/icons?i=python,c,java&perline=10)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java&perline=10" alt="Languages" />
 
 **Tools & Environment:**
 
-![](https://skillicons.dev/icons?i=git,linux,vscode,github&perline=10)
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,github&perline=10" alt="Tools" />
 
 ---
 
@@ -49,8 +45,7 @@ I'm a Computer Engineering student passionate about building things — from low
 
 ---
 
-
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/moaz-gaballah-6b70b3391/)
 &nbsp;
