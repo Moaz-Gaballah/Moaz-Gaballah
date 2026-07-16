@@ -18,7 +18,9 @@
 
 ### 💻 About Me
 
-I’m a Computer Engineering student at Alexandria University who enjoys building software that actually works well under the hood. I have a strong foundation in programming languages, data structures, algorithms, and object-oriented programming. I am genuinely enthusiastic about software development and always eager to learn, adapt, and build.
+I’m a Computer Engineering student at Alexandria University who enjoys building software that actually works well under the hood. I have a strong foundation in programming languages, data structures, algorithms, and object-oriented programming. 
+
+I love the challenge of problem-solving—whether it's debugging complex logic, optimizing runtime performance, or breaking down intricate engineering problems. I am genuinely enthusiastic about software development and always eager to learn, adapt, and build.
 
 ---
 
